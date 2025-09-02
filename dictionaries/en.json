@@ -41,12 +41,18 @@
     "phases": [
       { "phase": "Phase 1: Foundation", "status": "COMPLETED", "desc": "Premium branding, website launch, and initial community building." },
       { "phase": "Phase 2: AI Prototype & Growth", "status": "IN PROGRESS", "desc": "Launch basic AI bot for pilot testing; expand social engagement." },
-      { "phase": "Phase 3: Token Launch & Utility", "status": "PLANNED", "date": "2025-09-13", "desc": "Official $MAWA launch on Jupiter; integrate token for payments and premium features." }
+      { "phase": "Phase 3: Token Launch & Utility", "status": "PLANNED", "date": "2025-09-13", "desc": "Official $MAWA launch on Jupiter; integrate token for payments and premium features." },
+      { "phase": "Phase 4: Full AI & DEX Expansion", "status": "PLANNED", "desc": "Launch advanced multi-platform AI (Telegram/Discord); list on major DEXs." },
+      { "phase": "Phase 5: CEX & Ecosystem", "status": "PLANNED", "desc": "Pursue CEX listings and develop the ecosystem with rewards, NFTs, and merch." }
     ]
   },
   "faq": {
     "title": "Frequently Asked Questions",
-    "items": [{ "q": "Is MAWA an AI project or a memecoin?", "a": "Both. MAWA is fundamentally an AI technology project. The $MAWA token is the utility and governance token that powers its ecosystem." }]
-  },
-  "how_to_buy": { "title": "How to Buy $MAWA", "steps": [ "Install a Solana wallet (e.g., Phantom).", "Fund your wallet with SOL.", "Connect to Jupiter Aggregator and swap SOL for $MAWA." ], "link_text": "Buy on Jupiter" }
-}
+    "items": [
+      { "q": "Is MAWA an AI project or a memecoin?", "a": "Both. MAWA is fundamentally an AI technology project. The $MAWA token is the utility and governance token that powers its ecosystem, giving it the vibrant energy of a memecoin community." },
+      { "q": "What does the AI bot actually do?", "a": "MAWA acts as a community manager. It automates moderation, creates engagement (memes, polls), adapts its personality to your group, and can even join voice chats." },
+      { "q": "Why a crocodile mascot?", "a": "Crocodiles symbolize resilience, patience, and strength—qualities that reflect our long-term vision for building a lasting and powerful project." },
+      { "q": "What is the utility of the $MAWA token?", "a": "The token will be used for paying for premium bot features, staking to unlock exclusive AI personalities, and participating in governance decisions for the project's future." },
+      { "q": "Is liquidity locked?", "a": "Yes, the liquidity pool will be locked for 12 months upon launch to ensure trust and stability for the community." }
+    ]
+  }
